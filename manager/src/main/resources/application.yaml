@@ -20,7 +20,7 @@ spring:
       port: 30100
 
 server:
-  port: 0
+  port: 8080
 
 ---
 
